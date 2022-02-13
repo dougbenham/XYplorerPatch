@@ -1,0 +1,3 @@
+[submodule "EternalUtils"]
+	path = EternalUtils
+	url = https://gitlab.com/dougbenham/EternalUtils
